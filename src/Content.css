@@ -1,0 +1,35 @@
+
+.back{
+ 
+    width: 100%;
+    height: 302px;
+
+    text-align: center;
+    padding-top: 60px;
+    color: white;
+    background-image: url(https://th.bing.com/th?id=OIP.62zWVHY2qbzSuvPBS_uQGgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+
+}
+
+.sec22{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 15px 15px 15px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.divs{
+    
+    display: flex;
+    flex-direction: column;
+    line-height: 10px;
+    padding: 10px;
+}
+.sec22 div{
+    display: flex;
+    align-items: center;
+}
+
+
+

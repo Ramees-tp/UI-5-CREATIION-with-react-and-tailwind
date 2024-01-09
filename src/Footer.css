@@ -1,0 +1,29 @@
+.sec31 span{
+    color: #FE9797;
+    
+}
+.floers{
+    border-radius: 3px;
+ 
+    width: 150px;
+    height: 160px;
+    text-align: center;
+}
+.sec32{
+    display: flex;
+    align-items: center;
+  
+    padding-bottom: 50px;
+    gap: 20px;
+}
+.im1{
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+}
+.floers p{
+    padding: 10px;
+}
+.sec32{
+    padding-top: 20px;
+}
